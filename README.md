@@ -37,7 +37,7 @@ This is for study and assignment of the assignment of the course No.11934(2020-1
 - you can choose any initial conditions for $`\theta_0^{(0)}`$ and $`\theta_1^{(0)}`$
 
 
-## Assignment03
+## Assignment03: Visualization of Gradient Descent algorithm based on Linear Regression problem
 
 ### 1. Data
 
