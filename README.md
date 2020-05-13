@@ -1,4 +1,4 @@
-# CAU11934_MachineLarning
+# CAU11934_MachineLearning
 
 This is for study and assignment of the assignment of the course No.11934(2020-1).
 
