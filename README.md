@@ -16,3 +16,5 @@ This is for study and assignment of the course No.11934(2020-1).
 ### Assignment06: Logistic regression for a binary classification with a non-linear classification boundary
 
 ### Assignment07: Logistic regression for a binary classification with a regularization
+
+### Assignment08: Forward Propagation in the Neural Networks
